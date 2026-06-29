@@ -27,7 +27,7 @@ A secure, lightweight desktop password manager built with Python. Credentials ar
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/password-vault.git
+git clone https://github.com/AlexNCyber/password-vault.git
 cd password-vault
 ```
 
