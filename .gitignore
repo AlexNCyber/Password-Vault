@@ -1,0 +1,8 @@
+vault.json
+vault.salt
+vault.hash
+secret.key
+build/
+dist/
+*.spec
+__pycache__/
